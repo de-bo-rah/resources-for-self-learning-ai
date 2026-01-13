@@ -22,13 +22,15 @@
 [Text Mining with R](https://github.com/juliasilge/tidy-text-mining)
 
 * Courses
-  [Neural Nets by Karpathy](https://karpathy.ai/zero-to-hero.html)
 
-  [huggingface.co](huggingface.co)
 
-  [intro to deep learning by mit](https://introtodeeplearning.com/)
+[Neural Nets by Karpathy](https://karpathy.ai/zero-to-hero.html)
 
-  Stanford CS230
+[huggingface.co](huggingface.co)
+
+[intro to deep learning by mit](https://introtodeeplearning.com/)
+
+Stanford CS230
 
 
 
